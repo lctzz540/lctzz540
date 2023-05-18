@@ -9,7 +9,7 @@ My name is Thang and here are something about me:
 - 📫 How to reach me: https://www.facebook.com/eternal.lct/ & lctzz540@icloud.com...
 - 🇻🇳 I'm from HCM city, Vietnam ...
 ### About my work
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lctzz540&size_weight=0&count_weight=1&hide=jupyter&tex)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lctzz540&size_weight=0&count_weight=1&hide=jupyter,tex)](https://github.com/anuraghazra/github-readme-stats)
 
 Don't forget to give me a star 😆
 
