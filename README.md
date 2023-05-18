@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&multiline=true&repeat=false&width=435&lines=Welcome+to+my+github+profile;I+am+Th%E1%BA%AFng+%5E%5E)](https://git.io/typing-svg)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lctzz540)](https://github.com/anuraghazra/github-readme-stats)
 ### Hi there 👋
 
