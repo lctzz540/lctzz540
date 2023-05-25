@@ -15,7 +15,6 @@ My name is Thang and here are something about me:
 
 ### Languages
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/lctzz540)
-[![TypeScript](https://img.shields.io/badge/icon/typescript?icon=typescript&label)](https://github.com/lctzz540)
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/lctzz540)
 [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/lctzz540)
 [![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/lctzz540)
