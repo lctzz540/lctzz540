@@ -37,7 +37,7 @@ My name is Thang and here are something about me:
 
 ### OS
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/lctzz540)
-[![MacOS](https://img.shields.io/badge/macos-black?style=for-the-badge&logo=MacOS)](https://github.com/lctzz540)
+[![MacOS](https://img.shields.io/badge/macos-black?style=for-the-badge&logo=Macos)](https://github.com/lctzz540)
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=lctzz540&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
