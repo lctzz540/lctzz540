@@ -21,7 +21,7 @@ My name is Thang and here are something about me:
 [![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/wervlad)
 [![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/lctzz540)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/lctzz540)
-[![Go](https://img.shields.io/badge/--00ADD8?logo=go&logoColor=ffffff)](https://github.com/lctzz540)
+[![Go](https://img.shields.io/badge/go-black?logo=go&style=for-the-badge)](https://github.com/lctzz540)
 
 ### ML/DL
 [![Pandas](https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas)](https://github.com/lctzz540)
