@@ -10,7 +10,7 @@ My name is Thang and here are something about me:
 - 📫 How to reach me: https://www.facebook.com/eternal.lct/ (Facebook) & lctzz540@icloud.com (Email) & https://www.instagram.com/lctdiary/ (Instagram)
 - 🇻🇳 I'm from HCM city, Vietnam ...
 ### About my work
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lctzz540&size_weight=0.5&count_weight=0.5&hide=jupyter%20notebook,tex,procfile,dockerfile,shell,css&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lctzz540&size_weight=0.5&count_weight=0.5&hide=jupyter%20notebook,tex,procfile,dockerfile,shell,css,c&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Languages
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/lctzz540)
