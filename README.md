@@ -1,7 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&multiline=true&repeat=false&width=435&lines=Welcome+to+my+github+profile;I+am+Th%E1%BA%AFng+%5E%5E)](https://git.io/typing-svg)
 
-### Hi there 👋
-
 My name is Thang and I work as freelancer developer in HCMC, VietNam 🇻🇳
 
 - 📫 How to reach me: https://www.facebook.com/eternal.lct/ (Facebook) & lctzz540@icloud.com (Email)
